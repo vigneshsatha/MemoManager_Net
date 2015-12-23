@@ -1,0 +1,3 @@
+# MemoManager_Net
+.Net App coming soon...
+An app to maintain memo
